@@ -1,1 +1,10 @@
 SDLC Information File
+
+The term SDLC is short for System Development Life Cyle, which is a process for planning, creating,
+ testing and deploying an information system. A typical lifecyle is made up of six stages, these 
+stages are: Planing, Defining, Designing, Building, Testing, and Deployment. IN addition to this 
+there are various sdlc models that can be used for exampe, the wataerfall model, which follow a
+ series of steps which help complete the process of sowftware development. By using an sdlc 
+bussinesses will reep the benifits that come from it whichc include but arnt limited to: a
+ standardized framework that defines activities and deliverables, increased speed of development, 
+ decreased project risks and aid in project planning, estimating, and scheduling.
