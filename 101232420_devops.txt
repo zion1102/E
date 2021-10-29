@@ -1,1 +1,11 @@
 DevOps Information File
+
+DevOps short for Development and Operations are a set of practices that bring together both software development and
+ IT operations. Devops came about from applying Agile and Lean approches to operations work. The use of DevOps practices
+ allows for faster delivery of application in an open marketplace. Due to the fact that it conjoins development and operation 
+teams it allows for fewer overlaps in the bussiness process which in hand speeds up the process. The devops lifecyle contains
+ 6 steps that are all integrated, these steps include: Build, Plan, Monitor, Operate, Continuous integration and development,
+ and Continuous feedback. DevOps engineers use specific devops tools to assist them with each step in the lifcyle. 
+The key benifits of devops approach are, speed, accuracy, security, imporved collaboration amongst employees and rapid deployemnt.
+ Due to these reasons, any bussinesses in the technology field are now choosing to use a DevOps apporach in ther workspace
+ in an attempt to improve there product.
